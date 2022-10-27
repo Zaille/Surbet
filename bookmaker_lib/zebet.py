@@ -1,10 +1,15 @@
 from utils import data_management
 import re
+import requests
 
 
-def get_data(data):
-    print("Parsing Zebet...")
+def get_data():
+    page = requests.get("https://www.zebet.fr/fr/sport/13-football")
 
+    data_management.save_file(page.content, "zebet")
+
+
+def parse_data(data):
     soup_zebet = data_management.read_file("zebet")
 
     items = soup_zebet.find_all(class_="item")  # Bloc which contains all the containers with the bets
@@ -33,6 +38,6 @@ def get_data(data):
                 odd_x = re.sub(r'\\n\s{8}(\d+),(\d+)\s{4}', '\\1.\\2', odds[1].string)
                 odd_2 = re.sub(r'\\n\s{8}(\d+),(\d+)\s{4}', '\\1.\\2', odds[2].string)
 
-                data = data_management.addRow(data, "zebet", teams[0].lower(), teams[1].lower(), odd_1, odd_x, odd_2, date)
+                data = data_management.add_row(data, "zebet", teams[0].lower(), teams[1].lower(), odd_1, odd_x, odd_2, date)
 
     return data
