@@ -18,3 +18,7 @@ def get_data():
     text_file.close()
 
     browser.close()
+
+
+def parse_data(data):
+    return data

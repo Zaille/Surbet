@@ -54,38 +54,40 @@ def parse_data(data):
 
                     odds = sport.find_all(class_="oddValue")
 
-                    odd_1 = odds[0].string.replace(",", ".")
-                    odd_x = odds[1].string.replace(",", ".")
-                    odd_2 = odds[2].string.replace(",", ".")
+                    if odds[0].text != " Parier ":
 
-                    info_time = sport.find(class_="event_infoTime").string
-                    format_time = re.sub(r"\n\s{12}(.+) (\d{2}:\d{2})\n\s{8}", '\\1 \\2', info_time)
-                    time_split = re.split(r" ", format_time)
+                        odd_1 = odds[0].string.replace(",", ".")
+                        odd_x = odds[1].string.replace(",", ".")
+                        odd_2 = odds[2].string.replace(",", ".")
 
-                    if time_split[0] == "Aujourd'hui":
-                        date = "{} {}".format(
-                            datetime.datetime.now().strftime('%d/%m'),
-                            time_split[1]
-                        )
-                    elif time_split[0] == "Demain":
-                        now = datetime.datetime.now().strftime('%d/%m')
-                        date = "{} {}".format(
-                            (datetime.datetime.strptime(now, '%d/%m') + datetime.timedelta(days=1)).strftime('%d/%m'),
-                            time_split[1]
-                        )
-                    elif time_split[0] == "Après-demain":
-                        now = datetime.datetime.now().strftime('%d/%m')
-                        date = "{} {}".format(
-                            (datetime.datetime.strptime(now, '%d/%m') + datetime.timedelta(days=2)).strftime('%d/%m'),
-                            time_split[1]
-                        )
-                    else:
-                        date = "{} {}".format(
-                            re.sub(r'(\d{2}/\d{2})/\d{4}', '\\1', time_split[0]),
-                            time_split[1]
-                        )
+                        info_time = sport.find(class_="event_infoTime").string
+                        format_time = re.sub(r"\n\s{12}(.+) (\d{2}:\d{2})\n\s{8}", '\\1 \\2', info_time)
+                        time_split = re.split(r" ", format_time)
 
-                    # Add row data in the dataframe
-                    data = data_management.add_row(data, "betclic", team_a.lower(), team_b.lower(), odd_1, odd_x, odd_2, date)
+                        if time_split[0] == "Aujourd'hui":
+                            date = "{} {}".format(
+                                datetime.datetime.now().strftime('%d/%m'),
+                                time_split[1]
+                            )
+                        elif time_split[0] == "Demain":
+                            now = datetime.datetime.now().strftime('%d/%m')
+                            date = "{} {}".format(
+                                (datetime.datetime.strptime(now, '%d/%m') + datetime.timedelta(days=1)).strftime('%d/%m'),
+                                time_split[1]
+                            )
+                        elif time_split[0] == "Après-demain":
+                            now = datetime.datetime.now().strftime('%d/%m')
+                            date = "{} {}".format(
+                                (datetime.datetime.strptime(now, '%d/%m') + datetime.timedelta(days=2)).strftime('%d/%m'),
+                                time_split[1]
+                            )
+                        else:
+                            date = "{} {}".format(
+                                re.sub(r'(\d{2}/\d{2})/\d{4}', '\\1', time_split[0]),
+                                time_split[1]
+                            )
+
+                        # Add row data in the dataframe
+                        data = data_management.add_row(data, "betclic", team_a.lower(), team_b.lower(), odd_1, odd_x, odd_2, date)
 
     return data

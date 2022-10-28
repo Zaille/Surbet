@@ -34,12 +34,10 @@ Example with 100 € :
 
 ### Bookmakers to add :
 - Bwin
-- Unibet
 - Vbet
 - Betway
 - Parions Sport
 - France Pari
-- Betclic
 - NetBet
 - BarrièreBet
 - PMU
@@ -50,5 +48,7 @@ Example with 100 € :
 - Use module Selenium
 
 ### Algorithm:
+- Asynchrone function for optimisation
+- Optimise matches comparison to get max odds
 - Check all sports
 - Check surebet for other type of bet
