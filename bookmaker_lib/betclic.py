@@ -54,6 +54,8 @@ def parse_data(data):
 
                     odds = sport.find_all(class_="oddValue")
 
+                    print(odds)
+
                     if odds[0].text != " Parier ":
 
                         odd_1 = odds[0].string.replace(",", ".")

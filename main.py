@@ -8,7 +8,7 @@ bookmakers = {
     "winamax": {"active": True, "lib": winamax},
     "france-pari": {"active": False, "lib": france_pari},  # Get data by category
     "unibet": {"active": True, "lib": unibet},
-    "betclic": {"active": True, "lib": betclic},
+    # "betclic": {"active": True, "lib": betclic},
     "parions-sport": {"active": True, "lib": parions_sport}
 }
 

@@ -1,0 +1,730 @@
+bookmaker,team_a,team_b,odd_1,odd_x,odd_2,date
+zebet,marseille,benfica lisbonne,2.37,3.55,2.82,18/04 21:00
+zebet,atalanta bergame,liverpool,4.7,4.8,1.55,18/04 21:00
+zebet,west ham,bayer leverkusen,3.8,3.8,1.82,18/04 21:00
+zebet,as rome,milan ac,3.05,3.6,2.12,18/04 21:00
+zebet,lille,aston villa,2.42,3.65,2.67,18/04 18:45
+zebet,fiorentina,fc viktoria plzen,1.4,4.3,7.5,18/04 18:45
+zebet,fenerbahce,olympiakos,1.53,4.4,4.9,18/04 21:00
+zebet,paok salonique,fc bruges,1.9,3.75,3.55,18/04 21:00
+zebet,nice,lorient,1.47,4.2,6.2,19/04 21:00
+zebet,lens,clermont,1.34,4.7,7.0,20/04 21:00
+zebet,lille,strasbourg,1.5,4.0,5.4,21/04 15:00
+zebet,nantes,rennes,2.85,3.25,2.27,20/04 17:00
+zebet,brest,monaco,2.5,3.4,2.5,21/04 17:05
+zebet,le havre,metz,2.1,3.1,3.3,21/04 15:00
+zebet,reims,montpellier,1.9,3.6,3.4,21/04 15:00
+zebet,paris sg,lyon,1.39,5.0,5.5,21/04 21:00
+zebet,toulouse,marseille,2.87,3.25,2.25,21/04 19:00
+zebet,lorient,paris sg,6.1,4.9,1.35,24/04 19:00
+zebet,paris sg,le havre,1.28,4.9,7.75,27/04 21:00
+zebet,marseille,nice,2.0,3.35,3.2,24/04 21:00
+zebet,monaco,lille,2.07,3.45,2.95,24/04 21:00
+zebet,metz,lille,4.5,3.8,1.6,28/04 13:00
+zebet,athletic bilbao,grenade cf,1.21,5.8,11.5,19/04 21:00
+zebet,girona fc,c\xc3\xa1diz cf,1.36,4.7,6.5,20/04 21:00
+zebet,deportivo alav\xc3\xa9s,atletico de madrid,3.7,3.25,1.87,21/04 18:30
+zebet,ud almeria,villarreal cf,3.1,3.55,1.98,21/04 16:15
+zebet,real madrid,fc barcelone,1.75,3.75,3.6,21/04 21:00
+zebet,getafe cf,real sociedad,3.55,2.97,2.07,21/04 14:00
+zebet,celta vigo,ud las palmas,1.71,3.65,4.4,20/04 14:00
+zebet,fc s\xc3\xa9ville,real majorque,1.85,3.05,4.1,22/04 21:00
+zebet,valence cf,real betis,2.1,3.1,3.25,20/04 18:30
+zebet,rayo vallecano,ca osasuna,2.15,3.05,3.3,20/04 16:15
+zebet,real sociedad,real madrid,2.75,3.25,2.27,27/04 21:00
+zebet,grenade cf,ca osasuna,2.57,3.0,2.57,28/04 16:15
+zebet,fc barcelone,valence cf,1.34,4.7,6.5,27/04 14:00
+zebet,real betis,fc s\xc3\xa9ville,2.1,3.2,3.15,28/04 21:00
+zebet,al shabab riyadh,abha,1.27,4.7,6.0,18/04 20:00
+zebet,al fateh sc,al raed,1.78,3.5,3.15,18/04 20:00
+zebet,al nassr,al faiha,1.39,4.5,4.5,19/04 17:00
+zebet,al riyadh,al tai,2.32,3.15,2.42,19/04 17:00
+zebet,fk jelgava,valmiera fk,6.1,3.55,1.34,18/04 18:30
+zebet,independiente del valle,mushuc runa,1.14,5.0,7.0,18/04 23:30
+zebet,barcelone,el nacional,1.26,4.1,5.6,19/04 02:00
+zebet,imbabura ibarra,universidad catolica,4.1,3.65,1.43,18/04 21:00
+zebet,delfin sc,csd macara,1.9,2.95,2.82,19/04 21:00
+zebet,sd aucas,cs emelec,1.91,2.92,2.82,20/04 02:00
+zebet,orense sc,ldu quito,3.0,2.92,1.83,19/04 23:30
+zebet,cagliari,juventus turin,4.5,3.6,1.7,19/04 20:45
+zebet,genoa,lazio rome,2.8,3.1,2.5,19/04 18:30
+zebet,empoli,naples,4.4,3.85,1.63,20/04 18:00
+zebet,torino,frosinone calcio,1.62,3.75,4.7,21/04 15:00
+zebet,ac monza,atalanta bergame,3.7,3.6,1.77,21/04 20:45
+zebet,as rome,bologne,2.15,3.0,3.2,22/04 18:30
+zebet,milan ac,inter milan,3.15,3.45,1.99,22/04 20:45
+zebet,sassuolo,us lecce,2.2,3.25,2.92,21/04 12:30
+zebet,us salernitana 1919,fiorentina,4.7,3.9,1.57,21/04 18:00
+zebet,hellas verone,udinese,2.5,3.05,2.7,20/04 20:45
+zebet,america de cali,deportivo pasto,1.27,4.0,6.5,19/04 03:20
+zebet,la equidad,fortaleza fc,1.98,2.9,2.95,18/04 23:00
+zebet,patriotas,independiente medellin,2.1,2.85,2.77,19/04 01:10
+zebet,atletico bucaramanga,boyaco chico fc,1.51,3.3,4.5,20/04 03:10
+zebet,fulham,liverpool,5.0,4.7,1.45,21/04 17:30
+zebet,wolverhampton,arsenal,7.5,4.9,1.31,20/04 20:30
+zebet,aston villa,bournemouth,1.68,4.1,3.8,21/04 16:00
+zebet,crystal palace,west ham,2.07,3.45,3.05,21/04 16:00
+zebet,luton town,brentford fc,2.92,3.6,2.07,20/04 16:00
+zebet,everton,nottingham forest,1.93,3.45,3.4,21/04 14:30
+zebet,manchester united,sheffield united,1.23,5.8,8.0,24/04 21:00
+zebet,brighton,manchester city,5.5,4.9,1.38,25/04 21:00
+zebet,sheffield united,burnley fc,2.6,3.5,2.32,20/04 16:00
+zebet,everton,liverpool,5.1,4.4,1.45,24/04 21:00
+zebet,arsenal,chelsea,1.43,4.5,5.1,23/04 21:00
+zebet,crystal palace,newcastle,2.8,3.5,2.12,24/04 21:00
+zebet,botafogo rj,atletico go,1.65,3.35,4.1,19/04 02:30
+zebet,saint-\xc3\x89tienne,bordeaux,1.63,3.9,4.2,20/04 19:00
+zebet,rodez,auxerre,2.92,3.45,2.1,20/04 15:00
+zebet,ac ajaccio,caen,2.5,2.77,2.87,20/04 19:00
+zebet,paris fc,valenciennes,1.34,4.3,7.75,20/04 19:00
+zebet,angers,troyes,1.6,3.6,4.8,20/04 19:00
+zebet,pau,laval,2.42,3.0,2.75,20/04 19:00
+zebet,amiens,dunkerque,1.99,3.3,3.3,20/04 19:00
+zebet,annecy fc,grenoble foot,1.91,3.15,3.7,20/04 19:00
+zebet,concarneau,quevilly - rouen m\xc3\xa9tropole,3.2,3.1,2.1,20/04 19:00
+zebet,guingamp,bastia,1.68,3.35,4.7,20/04 19:00
+zebet,coventry city,manchester united,5.0,4.5,1.4,21/04 16:30
+zebet,manchester city,chelsea,1.48,4.0,4.7,20/04 18:15
+zebet,italie,albanie,1.29,4.6,7.75,15/06 21:00
+zebet,allemagne,\xc3\x89cosse,1.17,5.8,10.5,14/06 21:00
+zebet,autriche,france,6.2,4.4,1.36,17/06 21:00
+zebet,belgique,slovaquie,1.39,4.3,5.9,17/06 18:00
+zebet,serbie,angleterre,5.5,4.1,1.43,16/06 21:00
+zebet,portugal,r\xc3\xa9publique tch\xc3\xa8que,1.48,3.75,5.5,18/06 21:00
+zebet,espagne,croatie,1.62,3.5,4.5,15/06 18:00
+zebet,slov\xc3\xa9nie,danemark,4.0,3.3,1.73,16/06 18:00
+zebet,hongrie,suisse,3.1,3.3,2.0,15/06 15:00
+zebet,pologne,pays-bas,4.3,3.7,1.6,16/06 15:00
+zebet,roumanie,ukraine,3.05,3.2,2.07,17/06 15:00
+zebet,turquie,g\xc3\xa9orgie,1.67,3.55,4.2,18/06 18:00
+zebet,fc heidenheim 1846,rb leipzig,5.8,5.1,1.39,20/04 15:30
+zebet,union berlin,bayern munich,4.6,4.3,1.55,20/04 18:30
+zebet,borussia dortmund,bayer leverkusen,2.3,3.7,2.55,21/04 17:30
+zebet,werder br\xc3\xaame,vfb stuttgart,4.5,4.4,1.53,21/04 15:30
+zebet,eintracht francfort,augsbourg,1.98,3.7,3.2,19/04 20:30
+zebet,fc cologne,darmstadt,1.47,4.5,5.4,20/04 15:30
+zebet,wolfsburg,bochum,1.7,3.95,4.1,20/04 15:30
+zebet,hoffenheim,borussia m\xc3\xb6nchengladbach,2.02,3.9,2.97,20/04 15:30
+zebet,bayer leverkusen,vfb stuttgart,1.72,3.9,3.65,27/04 18:30
+zebet,fribourg,mayence,2.45,3.4,2.5,21/04 19:30
+zebet,leicester,west bromwich albion,1.42,3.9,4.9,20/04 13:30
+zebet,sunderland,millwall fc,1.97,3.05,3.05,20/04 16:00
+zebet,norwich city,bristol city,1.53,3.6,4.3,20/04 16:00
+zebet,cardiff city,southampton,5.8,4.3,1.32,20/04 16:00
+zebet,middlesbrough,leeds united,3.65,3.45,1.67,22/04 21:00
+zebet,stoke city,plymouth argyle,1.65,3.25,4.0,20/04 16:00
+zebet,borussia dortmund,paris sg,2.5,3.55,2.37,01/05 21:00
+zebet,besiktas,mke ankarag\xc3\xbcc\xc3\xbc,1.58,3.65,4.2,19/04 19:00
+zebet,galatasaray,pendikspor,1.15,6.2,9.0,21/04 18:00
+zebet,samsunspor,adana demirspor,2.05,3.2,2.92,20/04 18:00
+zebet,kayserispor,trabzonspor,2.72,3.4,2.07,20/04 18:00
+zebet,uruguay,panama,1.28,4.7,8.25,24/06 03:00
+zebet,mexique,jama\xc3\xafque,1.55,3.6,5.1,23/06 03:00
+zebet,colombie,paraguay,1.77,3.25,4.2,25/06 00:00
+zebet,etats-unis,bolivie,1.18,5.6,11.5,24/06 00:00
+zebet,equateur,venezuela,1.81,3.25,4.0,23/06 00:00
+zebet,p\xc3\xa9rou,chili,3.9,3.15,1.85,22/06 02:00
+zebet,casa pia atletico,fc porto,7.75,4.7,1.3,21/04 19:00
+zebet,braga,fc vizela,1.2,5.8,9.5,20/04 21:30
+zebet,sporting farense,benfica lisbonne,7.0,4.9,1.31,22/04 21:15
+zebet,moreirense,fc gil vicente,2.07,3.15,3.25,20/04 16:30
+zebet,rio ave,arouca,2.47,3.1,2.6,19/04 21:15
+zebet,sporting cp,vitoria guimaraes,1.24,5.3,8.75,21/04 21:30
+zebet,glasgow rangers,heart of midlothian,1.17,5.2,8.25,21/04 16:00
+zebet,aberdeen,celtic glasgow,8.25,5.2,1.18,20/04 13:30
+zebet,newcastle united jets,wellington phoenix fc,2.65,3.35,1.99,19/04 11:45
+zebet,melbourne victory fc,brisbane roar fc,1.47,3.85,4.2,20/04 09:30
+zebet,western sydney wanderers,melbourne city fc,2.8,3.45,1.88,20/04 07:30
+zebet,macarthur fc,sydney fc,3.5,3.95,1.55,20/04 11:45
+zebet,olimpia ljubljana,aluminij kidricevo,1.19,4.8,7.0,20/04 17:30
+zebet,nk celje,nk domzale,1.16,4.9,8.0,21/04 17:30
+zebet,nk radomlje,mura 05,2.12,3.0,2.6,20/04 15:00
+zebet,nk maribor,nk rogaska,1.23,4.4,6.5,21/04 15:00
+zebet,fc hermanstadt,fc botosani,1.75,2.97,3.7,19/04 16:30
+zebet,farul constanta,cfr cluj,2.9,3.05,1.98,19/04 19:30
+zebet,steaua bucarest,rapid bucarest,1.73,3.25,3.45,20/04 19:30
+zebet,as trencin,tj fk vysne opatske,1.3,4.4,5.8,19/04 17:30
+zebet,botev vratsa,etar 1924 veliko tarnovo,1.5,3.35,4.7,19/04 16:30
+zebet,hebar pazardzhik,fk ludogorets,10.5,6.0,1.09,20/04 16:45
+zebet,pirin blagoevgrad,cherno more varna,5.4,3.55,1.41,20/04 14:15
+zebet,nk osijek,nk istra 1961,1.45,3.6,5.1,20/04 17:00
+zebet,rijeka,hnk gorica,1.14,5.8,8.75,21/04 19:30
+zebet,hjk helsinki,ifk mariehamn,1.24,5.0,7.5,20/04 14:00
+zebet,fc inter turku,kuopio ps,2.47,3.35,2.3,19/04 17:00
+zebet,vaasa ps,if gnistan,1.85,3.4,3.3,20/04 17:30
+zebet,paide linnameeskond,jalgpallikool tammeka,1.15,4.5,6.2,20/04 13:30
+zebet,levadia tallinn,parnu jk vaprus,1.01,7.0,13.5,20/04 16:00
+zebet,fc nomme united,jk tallinna kalev,3.55,3.35,1.48,20/04 11:30
+zebet,fc vorskla poltava,kolos kovalyovka,2.35,2.72,2.65,20/04 17:00
+zebet,chernomorets odessa,fc kryvbas kriviy rih,3.3,3.3,1.77,20/04 14:30
+zebet,dynamo kiev,polissya zhytomyr,1.29,4.3,6.3,21/04 17:00
+zebet,lyon,paris sg,4.8,4.2,1.45,25/05 19:00
+zebet,ferencvarosi tc,kisvarda fc,1.08,6.3,11.5,20/04 17:00
+zebet,union la calera,everton,2.35,2.97,2.42,20/04 02:30
+zebet,malmo ff,vasteras sk,1.12,5.8,11.0,20/04 17:30
+zebet,sparta prague,banik ostrava,1.2,5.0,7.25,20/04 15:00
+zebet,slavia prague,sk sigma olomouc,1.07,6.75,11.5,21/04 15:00
+zebet,fk baumit jablonec,fc fastav zlin,1.58,3.6,3.8,20/04 15:00
+zebet,fc barcelone,chelsea lfc,1.12,5.9,10.0,20/04 13:30
+zebet,lyon,paris sg,1.45,3.95,4.6,20/04 19:00
+zebet,maccabi tel aviv,hapoel haifa,1.23,4.9,7.0,20/04 16:00
+zebet,hangzhou greentown fc,tianjin teda,2.25,3.25,2.42,19/04 14:00
+zebet,nantong zhiyun,shanghai shenhua,6.0,4.4,1.3,20/04 14:00
+zebet,wuhan shangwen,changchun yatai,1.75,3.55,3.2,20/04 13:35
+zebet,red bull salzbourg,sk austria klagenfurt,1.16,5.5,9.25,21/04 17:00
+zebet,sturm graz,rapid vienne,1.68,3.6,3.65,19/04 19:30
+zebet,westerlo,standard de li\xc3\xa8ge,2.45,3.25,2.37,20/04 18:15
+zebet,oud-heverlee leuven,st.truidense vv,2.42,3.2,2.42,20/04 16:00
+zebet,fc copenhague,silkeborg,1.24,4.7,7.0,21/04 16:00
+zebet,randers fc,odense,1.68,3.35,3.75,19/04 19:00
+zebet,rakow czestochowa,gornik zabrze,1.43,3.75,5.1,19/04 20:30
+zebet,korona kielce,radomiak radom,2.17,2.92,2.8,19/04 18:00
+zebet,spezia,sampdoria,2.17,2.95,2.72,20/04 16:15
+zebet,palerme,parme fc,2.5,3.3,2.17,19/04 20:30
+zebet,brescia,ternana calcio,1.88,3.25,3.1,20/04 14:00
+zebet,consadole sapporo,sanfrecce hiroshima,3.95,3.55,1.63,20/04 07:00
+zebet,mazatl\xc3\xa1n fc,juarez fc,1.83,3.35,3.15,20/04 03:00
+zebet,atletico san luis,deportivo toluca,3.15,3.45,1.8,20/04 05:00
+zebet,lamia 1964,panathina\xc3\xafkos,11.0,5.8,1.11,21/04 16:00
+zebet,inter miami cf,nashville sc,1.31,4.4,5.8,21/04 01:30
+zebet,cf villarreal b,ferrol,2.12,2.97,2.7,20/04 16:15
+zebet,espanyol barcelone,fc andorra,1.53,3.35,4.4,21/04 14:00
+zebet,bohemians dublin,drogheda united,1.88,2.95,2.82,19/04 20:45
+zebet,st patricks,waterford united,1.93,2.95,2.75,19/04 20:45
+zebet,sligo rovers,dundalk,1.83,3.05,2.87,19/04 20:45
+zebet,sol de america,sportivo luqueno,2.32,3.1,2.45,20/04 00:00
+zebet,othellos athienou,ethnikos achnas,2.7,3.35,1.95,19/04 18:00
+zebet,coleraine fc,crusaders,2.67,3.45,1.91,20/04 16:00
+zebet,fc winterthur,young boys berne,3.0,3.55,1.88,21/04 16:30
+zebet,servette fc,grasshopper z\xc3\xbcrich,1.39,4.2,5.2,20/04 18:00
+zebet,kaiserslautern,bayer leverkusen,13.5,7.5,1.06,25/05 20:00
+zebet,fc seoul,jeonbuk hyundai motors,2.45,3.05,2.42,20/04 09:30
+unibet,fk jelgava,valmiera fk/bjss,6.35,3.55,1.42,18/04 18:30
+unibet,fiorentina,fc viktoria plzen,1.41,4.3,7.75,18/04 18:45
+unibet,lille,aston villa,2.52,3.75,2.65,18/04 18:45
+unibet,al fateh sc,al raed fc,1.89,3.58,3.32,18/04 20:00
+unibet,al-shabab,abha club,1.36,4.65,6.3,18/04 20:00
+unibet,as rome,milan ac,3.2,3.52,2.2,18/04 21:00
+unibet,atalanta bergame,liverpool,4.8,4.75,1.56,18/04 21:00
+unibet,fenerbahce,olympiakos,1.55,4.45,4.95,18/04 21:00
+unibet,imbabura sporting club,cd universidad catolica,4.45,3.8,1.56,18/04 21:00
+unibet,marseille,benfica,2.4,3.6,2.9,18/04 21:00
+unibet,paok fc,club bruges,1.9,3.68,3.68,18/04 21:00
+unibet,west ham,bayer leverkusen,3.9,3.85,1.84,18/04 21:00
+unibet,la equidad,fortaleza fc,2.1,2.98,3.12,18/04 23:00
+unibet,independiente del valle,mushuc runa sc,1.26,5.0,7.25,18/04 23:30
+unibet,boyaca patriotas,independiente medellin,2.22,2.95,2.95,19/04 01:10
+unibet,barcelona sc,cd el nacional,1.38,4.15,6.0,19/04 02:00
+unibet,botafogo,atletico goianiense,1.71,3.35,4.25,19/04 02:30
+unibet,america de cali,ad pasto,1.37,3.92,6.9,19/04 03:20
+unibet,newcastle jets fc,wellington phoenix,2.78,3.45,2.08,19/04 11:45
+unibet,zhejiang greentown,tianjin teda,2.31,3.28,2.49,19/04 14:00
+unibet,turan tovuz,fk sumgayit,2.03,3.15,2.95,19/04 14:30
+unibet,nk gosk gabela,fk tuzla city,1.64,3.62,3.95,19/04 16:00
+unibet,botev vratsa,etar tarnovo,1.56,3.35,4.75,19/04 16:30
+unibet,fc hermannstadt,fc botosani,1.83,3.02,3.82,19/04 16:30
+unibet,al nassr fc,al fayha fc,1.48,4.45,4.8,19/04 17:00
+unibet,al riyadh,al tai,2.44,3.25,2.55,19/04 17:00
+unibet,es setif,js saoura,1.71,2.65,4.85,19/04 17:00
+unibet,fc inter turku,kuopion palloseura,2.49,3.28,2.21,19/04 17:00
+unibet,mc magra,mc alger,5.2,2.9,1.58,19/04 17:00
+unibet,seinajoen jk,fc ilves,2.23,3.22,2.49,19/04 17:00
+unibet,usm khenchela,cs constantine,1.97,2.8,3.28,19/04 17:00
+unibet,as trencin,fk kosice,1.36,4.35,6.0,19/04 17:30
+unibet,doxa katokopias,nea salamis,2.6,3.35,2.1,19/04 18:00
+unibet,fc telavi,saburtalo tbilisi,2.92,3.35,1.92,19/04 18:00
+unibet,korona kielce sa,radomiak radom,2.2,2.88,2.8,19/04 18:00
+unibet,othellos athienou,ethnikos achnas,2.8,3.4,1.97,19/04 18:00
+unibet,elversberg,schalke 04,2.16,3.38,2.55,19/04 18:30
+unibet,fc nuremberg,paderborn,2.55,3.32,2.2,19/04 18:30
+unibet,genoa,lazio rome,2.85,3.12,2.45,19/04 18:30
+unibet,besiktas,mke ankaragucu,1.63,3.58,4.25,19/04 19:00
+unibet,cd feirense,leixoes sc,2.5,3.1,2.35,19/04 19:00
+unibet,fc krumovgrad,slavia sofia,2.78,2.82,2.25,19/04 19:00
+unibet,randers,odense boldklub,1.72,3.35,3.82,19/04 19:00
+unibet,farul constanta,cfr cluj,2.98,3.08,2.01,19/04 19:30
+unibet,sturm graz,rapid vienne,1.7,3.55,3.7,19/04 19:30
+unibet,velez mostar,fk zvijezda 09,1.16,4.7,9.4,19/04 20:00
+unibet,ac reggiana,cosenza,2.12,2.78,2.95,19/04 20:30
+unibet,eintracht francfort,augsbourg,1.99,3.7,3.25,19/04 20:30
+unibet,palerme,parme,2.52,3.18,2.19,19/04 20:30
+unibet,rakow czestochowa,gornik zabrze,1.48,3.55,4.95,19/04 20:30
+unibet,tenerife cd,leganes,2.14,2.65,3.42,19/04 20:30
+unibet,bohemians,drogheda united fc,2.02,3.05,2.98,19/04 20:45
+unibet,cagliari,juventus turin,4.75,3.6,1.69,19/04 20:45
+unibet,derry city,shamrock rovers,2.25,2.98,2.65,19/04 20:45
+unibet,galway united,shelbourne fc,2.17,2.85,2.88,19/04 20:45
+unibet,sligo rovers,dundalk fc,1.94,3.15,3.08,19/04 20:45
+unibet,st. patricks athletic,waterford fc,2.02,3.08,2.95,19/04 20:45
+unibet,athletic bilbao,grenade,1.22,5.8,11.5,19/04 21:00
+unibet,ca youssoufia berrechid,olympique safi,2.25,2.92,2.68,19/04 21:00
+unibet,delfin sc,csd macara,2.01,3.02,3.0,19/04 21:00
+unibet,nice,lorient,1.47,4.2,6.2,19/04 21:00
+unibet,rio ave,fc arouca,2.48,3.08,2.68,19/04 21:15
+unibet,stjarnan,valur reykjavik,2.85,3.48,2.04,19/04 21:15
+unibet,orense sc,ldu quito,3.15,3.02,1.95,19/04 23:30
+unibet,sol de america,club sportivo luqueno,2.33,3.05,2.48,20/04 00:00
+unibet,sd aucas,cs emelec,2.02,3.0,3.0,20/04 02:00
+unibet,cs 2 de mayo,cerro porteno,3.55,3.3,1.74,20/04 02:30
+unibet,union la calera,everton de vina del mar,2.35,2.98,2.52,20/04 02:30
+unibet,mazatlan fc,fc juarez,1.84,3.3,3.18,20/04 03:00
+unibet,atlético bucaramanga,boyaca chico,1.59,3.28,4.6,20/04 03:10
+unibet,atletico san luis,deportivo toluca fc,3.2,3.38,1.81,20/04 05:00
+unibet,club tijuana,club puebla,1.46,3.82,4.7,20/04 05:10
+unibet,consadole sapporo,sanfrecce hiroshima,4.0,3.48,1.65,20/04 07:00
+unibet,kyoto sanga fc,albirex niigata,2.19,3.15,2.75,20/04 07:00
+unibet,sagan tosu,kashima antlers,3.8,3.18,1.78,20/04 07:00
+unibet,suwon fc,jeju united fc,2.26,3.1,2.6,20/04 07:00
+unibet,sydney wanderers,melbourne city,2.95,3.58,1.92,20/04 07:30
+unibet,avispa fukuoka,jubilo iwata,2.15,2.9,3.02,20/04 08:00
+unibet,shonan bellmare,vissel kobe,3.95,3.4,1.69,20/04 08:00
+unibet,kawasaki frontale,tokyo verdy,1.8,3.28,3.58,20/04 09:00
+unibet,urawa red diamonds,gamba osaka,1.79,3.18,3.78,20/04 09:00
+unibet,fc seoul,jeonbuk motors,2.5,3.05,2.37,20/04 09:30
+unibet,melbourne victory,brisbane roar,1.52,3.9,4.45,20/04 09:30
+unibet,pohang steelers,sangju sangmu,1.81,3.25,3.48,20/04 09:30
+unibet,shandong luneng,cangzhou mighty lions,1.39,4.1,5.4,20/04 09:30
+unibet,fc nomme united,tallinna kalev,3.82,3.45,1.59,20/04 11:30
+unibet,macarthur fc,sydney fc,3.7,4.05,1.61,20/04 11:45
+unibet,fc penafiel,fc pacos ferreira,2.58,3.12,2.27,20/04 12:00
+unibet,istanbulspor as,fatih karagumruk,4.55,3.52,1.6,20/04 12:30
+unibet,chengdu rongcheng,sichuan jiuniu,1.32,4.25,6.3,20/04 13:00
+unibet,dusseldorf,greuther furth,1.51,3.72,4.55,20/04 13:00
+unibet,kaiserslautern,sv wehen,1.71,3.45,3.62,20/04 13:00
+unibet,vfl osnabruck,braunschweig,2.34,3.18,2.44,20/04 13:00
+unibet,aberdeen,celtic,8.0,4.95,1.25,20/04 13:30
+unibet,fc barcelone,chelsea fc (f),1.2,5.65,9.4,20/04 13:30
+unibet,leicester,west bromwich,1.47,3.8,5.1,20/04 13:30
+unibet,paide linnameeskond,tammeka tartu,1.27,4.35,6.15,20/04 13:30
+unibet,wuhan three towns,changchun y.,1.79,3.55,3.25,20/04 13:35
+unibet,ascoli,modena fc,2.6,2.72,2.39,20/04 14:00
+unibet,bari,pise,2.3,2.78,2.65,20/04 14:00
+unibet,brescia,ternana calcio,1.89,3.12,3.1,20/04 14:00
+unibet,celta vigo,las palmas,1.69,3.68,4.65,20/04 14:00
+unibet,feralpisalo,côme,3.32,3.05,1.85,20/04 14:00
+unibet,hjk helsinki,ifk mariehamn,1.26,4.45,7.0,20/04 14:00
+unibet,nantong zhiyun,shanghai shen.,6.1,4.15,1.34,20/04 14:00
+unibet,politehnica iasi,fc voluntari,2.07,2.95,2.98,20/04 14:00
+unibet,sd amorebieta,valladolid,3.5,2.95,1.94,20/04 14:00
+unibet,p. blagoevgrad,cherno more,5.4,3.45,1.46,20/04 14:15
+unibet,fc chernomorets odessa,fc kryvbas kriviy rih,3.38,3.25,1.8,20/04 14:30
+unibet,puskas akademia,paksi,1.8,3.3,3.32,20/04 14:30
+unibet,ac sparta prague,fc banik ostrava,1.25,4.65,6.85,20/04 15:00
+unibet,fk jablonec,fc fastav zlin,1.61,3.55,3.9,20/04 15:00
+unibet,ifk goteborg,norrkoping,1.71,3.32,3.75,20/04 15:00
+unibet,ik sirius fk,ifk varnamo,1.63,3.52,3.98,20/04 15:00
+unibet,konyaspor,alanyaspor,2.08,3.2,2.98,20/04 15:00
+unibet,mfk karvina,bohemians 1905,2.46,3.12,2.32,20/04 15:00
+unibet,nk radomlje,ns mura,2.17,3.05,2.7,20/04 15:00
+unibet,pogon szczecin,piast gliwice,1.77,3.12,3.65,20/04 15:00
+unibet,rodez,auxerre,3.02,3.45,2.13,20/04 15:00
+unibet,scu torreense,uniao de leiria,2.14,3.1,2.78,20/04 15:00
+unibet,tp mazembe,al ahly sc (egy),2.13,2.85,2.95,20/04 15:00
+unibet,fc lahti,fc haka,2.75,3.05,2.14,20/04 15:15
+unibet,cologne,darmstadt,1.47,4.4,5.75,20/04 15:30
+unibet,fc heidenheim 1846,rb leipzig,6.1,4.95,1.4,20/04 15:30
+unibet,hoffenheim,borussia m'gladbach,2.02,3.9,3.05,20/04 15:30
+unibet,podbrezova,zilina,2.38,3.35,2.27,20/04 15:30
+unibet,wolfsbourg,bochum,1.7,3.92,4.2,20/04 15:30
+unibet,ballymena united fc,newry city afc,1.69,3.45,3.72,20/04 16:00
+unibet,cardiff city,southampton,6.0,4.1,1.37,20/04 16:00
+unibet,carrick rangers fc,loughgall fc,2.02,2.98,3.15,20/04 16:00
+unibet,cliftonville,glentoran,2.29,3.3,2.44,20/04 16:00
+unibet,coleraine fc,crusaders,2.78,3.48,1.99,20/04 16:00
+unibet,dungannon fc,glenavon,1.81,3.48,3.22,20/04 16:00
+unibet,hk kopavogur,fh hafnarfjordur,2.98,3.58,1.95,20/04 16:00
+unibet,huddersfield,swansea,1.98,3.25,3.05,20/04 16:00
+unibet,levadia tallinn,parnu jk vaprus,1.09,5.7,11.5,20/04 16:00
+unibet,louvain,saint-trond,2.43,3.12,2.33,20/04 16:00
+unibet,luton town,brentford,3.05,3.7,2.08,20/04 16:00
+unibet,maccabi tel aviv,hapoel haifa,1.28,4.6,6.7,20/04 16:00
+unibet,norwich city,bristol city,1.58,3.58,4.45,20/04 16:00
+unibet,rotherham united,birmingham c.,5.05,3.62,1.51,20/04 16:00
+unibet,sheffield united,burnley,2.7,3.58,2.32,20/04 16:00
+unibet,stoke city,plym. argyle,1.71,3.22,4.1,20/04 16:00
+unibet,sunderland,millwall fc,2.02,3.05,3.15,20/04 16:00
+unibet,watford,hull city,2.68,3.22,2.2,20/04 16:00
+unibet,calcio lecco 1912,venise,3.82,3.35,1.64,20/04 16:15
+unibet,catanzaro,cremonese,2.75,3.15,2.04,20/04 16:15
+unibet,fc sudtirol bolzano,cittadella,2.4,2.55,2.75,20/04 16:15
+unibet,racing santander,levante,2.1,3.18,2.88,20/04 16:15
+unibet,rayo vallecano,osasuna,2.12,3.12,3.48,20/04 16:15
+unibet,spezia calcio,sampdoria,2.18,2.92,2.72,20/04 16:15
+unibet,villarreal cf b,racing club de ferrol,2.18,3.05,2.82,20/04 16:15
+unibet,fc u craiova 1948,dinamo bucarest,1.93,3.08,3.15,20/04 16:30
+unibet,moreirense fc,gil vicente fc,2.09,3.12,3.32,20/04 16:30
+unibet,santa clara,cd tondela,1.45,3.58,5.5,20/04 16:30
+unibet,fk hebar pazardzhik,ludogorets,9.35,5.25,1.16,20/04 16:45
+unibet,al akhdood,damac fc,2.21,3.22,2.72,20/04 17:00
+unibet,austria vienne,wsg wattens,1.61,3.5,4.3,20/04 17:00
+unibet,bnei sakhnin fc,maccabi bnei reina,2.33,2.95,2.62,20/04 17:00
+unibet,ferencvaros,kisvarda fc,1.14,5.35,10.5,20/04 17:00
+unibet,maccabi netanya,hapoel jerusalem,1.89,3.15,3.3,20/04 17:00
+unibet,nk osijek,istra 1961,1.47,3.48,5.15,20/04 17:00
+unibet,nantes,rennes,2.98,3.3,2.26,20/04 17:00
+unibet,paradou ac,el bayadh,1.7,2.9,3.88,20/04 17:00
+unibet,scr altach,blau-weiss linz,1.92,3.02,3.48,20/04 17:00
+unibet,vorskla poltava,kolos kovalivka,2.39,2.72,2.68,20/04 17:00
+unibet,wolfsberger ac,a. lustenau,1.48,3.62,5.3,20/04 17:00
+unibet,malmo ff,vasteraas sk,1.18,5.1,9.6,20/04 17:30
+unibet,ofi crete fc,volos nps,2.02,3.0,3.22,20/04 17:30
+unibet,olimpija ljubljana,nk aluminij,1.27,4.45,6.8,20/04 17:30
+unibet,ruch chorzow,widzew lodz,2.32,3.02,2.5,20/04 17:30
+unibet,vaasan palloseura,if gnistan,1.82,3.25,3.28,20/04 17:30
+unibet,dunajska streda,ruzomberok,1.46,3.62,5.0,20/04 18:00
+unibet,empoli,naples,4.55,3.85,1.64,20/04 18:00
+unibet,fk teplice,ceske budejovice,1.55,3.38,4.2,20/04 18:00
+unibet,kayserispor,trabzonspor,2.72,3.3,2.04,20/04 18:00
+unibet,mfk zemplin michalovce,mfk skalica,1.8,3.25,3.35,20/04 18:00
+unibet,samsunspor,adana demirspor,2.01,3.1,2.95,20/04 18:00
+unibet,servette fc,grasshopper zurich,1.39,3.88,4.95,20/04 18:00
+unibet,yverdon-sport,fc stade ls ouchy,1.88,3.28,2.92,20/04 18:00
+unibet,zlate moravce,dukla banska bystrica,3.45,3.48,1.72,20/04 18:00
+unibet,kr reykjavik,fram reykjavik,1.53,3.98,4.25,20/04 18:15
+unibet,kvc westerlo,standard liège,2.45,3.15,2.25,20/04 18:15
+unibet,manchester city,chelsea,1.54,4.15,5.0,20/04 18:15
+unibet,qpr,preston n. end,1.74,3.1,3.78,20/04 18:15
+unibet,ast. tripolis,panaitolikos,2.17,2.92,2.65,20/04 18:30
+unibet,atromitos athènes,ae kifisia fc,2.4,3.15,2.25,20/04 18:30
+unibet,elche,sporting gijon,1.52,3.25,4.7,20/04 18:30
+unibet,union berlin,bayern munich,4.7,4.25,1.55,20/04 18:30
+unibet,valence,betis séville,2.08,3.18,3.4,20/04 18:30
+unibet,ac ajaccio,caen,2.47,2.8,2.98,20/04 19:00
+unibet,amiens,dunkerque,1.98,3.3,3.42,20/04 19:00
+unibet,angers,troyes,1.61,3.62,4.95,20/04 19:00
+unibet,boavista fc,cf estrela,2.43,3.1,2.65,20/04 19:00
+unibet,fc annecy,grenoble foot,1.96,3.12,3.7,20/04 19:00
+unibet,guingamp,bastia,1.68,3.35,4.9,20/04 19:00
+unibet,lyon,paris sg,1.5,3.95,4.75,20/04 19:00
+unibet,maccabi haifa,hapoel beer sheva,1.71,3.25,3.75,20/04 19:00
+unibet,maccabi petah tikva fc,hapoel tel aviv,2.38,2.82,2.6,20/04 19:00
+unibet,paris fc,valenciennes,1.35,4.25,8.0,20/04 19:00
+unibet,pau,laval,2.39,3.02,2.85,20/04 19:00
+unibet,saint-etienne,bordeaux,1.64,3.88,4.35,20/04 19:00
+unibet,us concarneau,quevilly-rouen métropole,3.3,3.12,2.1,20/04 19:00
+unibet,nk slaven,hajduk split,4.65,3.5,1.47,20/04 19:10
+unibet,levski sofia,beroe,1.23,4.15,7.7,20/04 19:15
+unibet,diosgyori,debrecen,2.47,3.1,2.31,20/04 19:30
+unibet,al ettifaq fc,al wehda fc,1.58,3.55,4.25,20/04 20:00
+unibet,al hazem fc,al ittihad jeddah,5.45,4.25,1.37,20/04 20:00
+unibet,la gantoise,fc malines,1.45,3.7,4.75,20/04 20:00
+unibet,zaglebie lubin,jagiellonia bialystok,2.58,3.15,2.1,20/04 20:00
+unibet,argentinos juniors,defensa y justicia,1.88,3.08,3.08,20/04 20:30
+unibet,fc lugano,fc lausanne,1.86,3.35,2.92,20/04 20:30
+unibet,hambourg,holstein kiel,1.85,3.42,2.88,20/04 20:30
+unibet,wolverhampton,arsenal,7.45,4.9,1.35,20/04 20:30
+unibet,genk,anderlecht,1.9,3.28,2.95,20/04 20:45
+unibet,hellas verone,udinese,2.52,3.08,2.72,20/04 20:45
+unibet,cobresal,nublense,2.0,3.08,2.82,20/04 21:00
+unibet,espérance tunis,mamelodi sundowns,2.12,2.65,2.85,20/04 21:00
+unibet,fluminense,vasco da gama,1.73,3.1,3.58,20/04 21:00
+unibet,gerone,cadiz cf,1.37,4.65,7.0,20/04 21:00
+unibet,huesca,real saragosse,2.19,2.52,3.05,20/04 21:00
+unibet,lens,clermont,1.35,4.6,7.65,20/04 21:00
+unibet,sporting braga,fc vizela,1.22,5.45,9.1,20/04 21:30
+unibet,deportivo pereira,millonarios fc,2.22,2.85,2.8,20/04 23:00
+unibet,ca bragantino,corinthians,1.85,2.98,3.28,20/04 23:30
+unibet,estudiantes de la plata,barracas central,1.58,3.15,4.35,20/04 23:30
+unibet,gremio,cuiaba esporte clube mt,1.55,3.18,4.55,20/04 23:30
+unibet,universidad catolica,colo colo,2.75,3.05,2.05,20/04 23:30
+unibet,sportivo ameliano,club general caballero jlm,1.85,3.15,3.1,21/04 00:30
+unibet,club leon,monterrey,2.44,3.22,2.28,21/04 01:00
+unibet,atletico junior,once caldas,1.62,3.18,4.35,21/04 01:10
+unibet,atlanta united,fc cincinnati,1.99,3.32,2.82,21/04 01:30
+unibet,cf montréal,orlando city,2.27,3.25,2.42,21/04 01:30
+unibet,columbus crew,portland timbers,1.5,3.7,4.5,21/04 01:30
+unibet,inter miami cf,nashville sc,1.35,4.1,5.65,21/04 01:30
+unibet,new york city fc,dc united,1.97,3.28,2.88,21/04 01:30
+unibet,toronto fc,new england rev.,2.02,3.25,2.78,21/04 01:30
+unibet,atletico mineiro,cruzeiro,1.68,3.05,3.85,21/04 02:00
+unibet,godoy cruz,velez sarsfield,2.06,2.78,3.0,21/04 02:15
+unibet,chicago fire,real salt lake,2.06,3.22,2.75,21/04 02:30
+unibet,coquimbo unido,cd o'higgins,2.06,3.0,2.78,21/04 02:30
+unibet,houston dynamo,austin fc,1.57,3.52,4.15,21/04 02:30
+unibet,sporting kansas city,saint louis city sc,1.64,3.52,3.75,21/04 02:30
+unibet,libertad asuncion,sportivo trinidense,1.31,3.85,6.45,21/04 03:00
+unibet,santos laguna,pachuca,2.9,3.32,1.95,21/04 03:05
+unibet,alianza fc valledupar,jaguares d. cordoba,2.02,2.8,3.25,21/04 03:30
+unibet,colorado rap.,fc dallas,1.68,3.25,3.92,21/04 03:30
+unibet,los angeles fc,new york red bulls,1.71,3.35,3.62,21/04 04:30
+unibet,seattle sounders,vancouver whitecaps fc,1.8,3.28,3.35,21/04 04:30
+unibet,central coast mariners,adelaide united,1.66,3.72,3.6,21/04 07:00
+unibet,gangwon fc,incheon united,2.35,2.82,2.62,21/04 07:00
+unibet,fc tokyo,machida zelvia,2.72,3.05,2.06,21/04 08:00
+unibet,nagoya grampus,cerezo osaka,2.44,2.9,2.35,21/04 08:00
+unibet,perth glory,western united fc,2.11,3.55,2.55,21/04 09:00
+unibet,daegu fc,daejeon citizen,1.96,3.08,3.08,21/04 09:30
+unibet,ud oliveirense,belenenses,1.99,3.12,2.88,21/04 12:00
+unibet,veres rivne,sc dnipro-1,4.0,2.98,1.68,21/04 12:00
+unibet,istanbul basaksehir,cayk. rizespor,1.93,3.25,3.0,21/04 12:30
+unibet,ks cracovie,mks puszcza niepolomice,1.54,3.35,4.3,21/04 12:30
+unibet,sassuolo,lecce,2.22,3.28,3.0,21/04 12:30
+unibet,henan songshan longmen,qingdao hainiu fc,1.91,3.18,3.2,21/04 13:00
+unibet,blackburn,sheffield wed.,1.87,3.18,3.22,21/04 13:30
+unibet,cercle bruges,royal antwerp,2.29,3.12,2.42,21/04 13:30
+unibet,fc hansa rostock,magdeburg,2.58,3.15,2.11,21/04 13:30
+unibet,fc kuressaare,jk narva trans,2.07,3.28,2.55,21/04 13:30
+unibet,hanovre,fc st. pauli,2.68,3.08,2.08,21/04 13:30
+unibet,karlsruhe,hertha berlin,1.76,3.4,3.18,21/04 13:30
+unibet,meizhou hakka,shanghai port,7.15,4.6,1.26,21/04 13:35
+unibet,aik,djurgardens if,2.65,3.02,2.22,21/04 14:00
+unibet,espanyol barcelone,fc andorra,1.55,3.22,4.45,21/04 14:00
+unibet,gais,mjallby aif,2.3,3.02,2.52,21/04 14:00
+unibet,getafe,real sociedad,3.7,3.05,2.03,21/04 14:00
+unibet,hvidovre if,vejle bk,2.85,3.18,2.02,21/04 14:00
+unibet,panseraikos fc,pas giannina,1.85,3.02,3.25,21/04 14:00
+unibet,pékin guoan fc,qingdao west coast fc,1.38,4.05,5.55,21/04 14:00
+unibet,viborg ff,lyngby,1.61,3.45,4.05,21/04 14:00
+unibet,kecskemeti te,mezokovesd zsory,1.56,3.25,4.75,21/04 14:05
+unibet,everton,nottingham forest,1.96,3.48,3.55,21/04 14:30
+unibet,hamarkameratene,stromsgodset if,2.28,3.08,2.52,21/04 14:30
+unibet,lask linz,tsv hartberg,1.71,3.32,3.65,21/04 14:30
+unibet,oleksandriya,lnz lebedyn,2.07,2.85,2.9,21/04 14:30
+unibet,asc otelul galati,fc universitatea cluj,2.58,2.88,2.26,21/04 15:00
+unibet,académico de viseu,cd mafra,1.75,3.2,3.52,21/04 15:00
+unibet,antalyaspor,hatayspor,1.76,3.18,3.6,21/04 15:00
+unibet,fc minaj,fc rukh lviv,4.35,3.25,1.56,21/04 15:00
+unibet,fc slovan liberec,fc hradec kralove,1.58,3.32,4.05,21/04 15:00
+unibet,fk pardubice,fk mlada boleslav,2.19,3.12,2.48,21/04 15:00
+unibet,lks lodz,lech poznan,4.25,3.48,1.52,21/04 15:00
+unibet,le havre,metz,2.08,3.18,3.42,21/04 15:00
+unibet,lille,strasbourg,1.5,4.05,5.65,21/04 15:00
+unibet,maribor,nk rogaska,1.26,4.2,6.7,21/04 15:00
+unibet,reims,montpellier,1.89,3.62,3.52,21/04 15:00
+unibet,slavia prague,sk sigma olomouc,1.12,5.3,10.2,21/04 15:00
+unibet,torino,frosinone calcio,1.64,3.7,4.8,21/04 15:00
+unibet,aberystwyth fc,pontypridd t.,2.75,3.02,2.15,21/04 15:15
+unibet,cardiff metropolitan university fc,newtown afc,2.31,3.4,2.31,21/04 15:15
+unibet,penybont,haverfordwest county,1.72,3.48,3.42,21/04 15:15
+unibet,werder brême,stuttgart,4.7,4.4,1.54,21/04 15:30
+unibet,aston villa,bournemouth,1.72,4.1,3.92,21/04 16:00
+unibet,crystal palace,west ham,2.09,3.52,3.15,21/04 16:00
+unibet,fc copenhague,silkeborg,1.28,4.35,6.7,21/04 16:00
+unibet,flora tallinn,nomme kalju,2.46,3.45,2.06,21/04 16:00
+unibet,kv courtrai,rwd molenbeek,1.88,3.15,3.12,21/04 16:00
+unibet,ka akureyri,if vestri,1.59,3.82,4.0,21/04 16:00
+unibet,lamia fc,panathinaikos,9.35,4.85,1.15,21/04 16:00
+unibet,mol fehervar fc,zalaegerszeg te,1.83,3.25,3.28,21/04 16:00
+unibet,rangers,hearts,1.22,4.75,7.7,21/04 16:00
+unibet,almeria,villarreal,3.22,3.68,1.97,21/04 16:15
+unibet,club deportivo eldense,albacete,2.08,2.85,2.85,21/04 16:15
+unibet,eibar,alcorcon ad,1.34,3.62,6.3,21/04 16:15
+unibet,bk hacken,hammarby if,1.77,3.5,3.22,21/04 16:30
+unibet,chaves,gd estoril praia,2.72,3.2,2.31,21/04 16:30
+unibet,coventry city,manchester united,5.4,4.6,1.46,21/04 16:30
+unibet,fc lucerne,fc bâle,1.79,3.35,3.08,21/04 16:30
+unibet,fc winterthour,young boys berne,2.95,3.38,1.84,21/04 16:30
+unibet,fc zürich,fc saint-gall,2.0,3.25,2.68,21/04 16:30
+unibet,famalicao,portimonense sc,1.53,3.75,5.25,21/04 16:30
+unibet,halmstads bk,brommapojkarna,2.65,3.22,2.13,21/04 16:30
+unibet,vilaverdense,cs maritimo,3.85,3.4,1.62,21/04 16:30
+unibet,dynamo kiev,fc polissya zhytomyr,1.31,3.92,6.1,21/04 17:00
+unibet,haugesund,rosenborg bk,2.78,3.12,2.09,21/04 17:00
+unibet,kristiansund,tromso,2.27,3.05,2.55,21/04 17:00
+unibet,lokomotiva zagreb,dinamo zagreb,5.65,3.8,1.35,21/04 17:00
+unibet,rb salzbourg,austria klagenfurt,1.19,4.85,8.6,21/04 17:00
+unibet,sk brann,odds bk,1.29,4.4,6.45,21/04 17:00
+unibet,sandefjord,lillestrom sk,2.82,3.18,2.03,21/04 17:00
+unibet,sarpsborg 08,kfum oslo,1.47,3.7,4.8,21/04 17:00
+unibet,viking fk,fredrikstad,1.49,3.62,4.7,21/04 17:00
+unibet,brest,monaco,2.58,3.45,2.44,21/04 17:05
+unibet,dortmund,bayer leverkusen,2.4,3.82,2.43,21/04 17:30
+unibet,eif,ac oulu,3.28,3.3,1.75,21/04 17:30
+unibet,fulham,liverpool,5.15,4.7,1.49,21/04 17:30
+unibet,legia varsovie,slask wroclaw,1.57,3.28,4.2,21/04 17:30
+unibet,nk celje,nk domzale,1.2,4.6,7.75,21/04 17:30
+unibet,spartak trnava,slovan bratislava,2.75,3.18,2.07,21/04 17:30
+unibet,brondby,fc midtjylland,2.05,3.2,2.78,21/04 18:00
+unibet,fc slovacko,fc viktoria plzen,2.82,3.15,1.97,21/04 18:00
+unibet,galatasaray,pendikspor,1.18,5.35,8.1,21/04 18:00
+unibet,gaziantep fk,kasimpasa,2.08,3.22,2.72,21/04 18:00
+unibet,hapoel hadera,fc ashdod,2.22,3.0,2.65,21/04 18:00
+unibet,salernitana,fiorentina,4.8,3.88,1.6,21/04 18:00
+unibet,sepsi,universitatea craiova,2.3,2.98,2.44,21/04 18:00
+unibet,alaves,atletico madrid,3.88,3.35,1.87,21/04 18:30
+unibet,aris thessalonique,aek athènes,5.25,3.8,1.38,21/04 18:30
+unibet,huachipato,deportes iquique,1.94,3.15,2.88,21/04 18:30
+unibet,mirandes,burgos cf,2.04,2.85,2.95,21/04 18:30
+unibet,ujpest fc,mtk budapest fc,1.97,3.28,2.88,21/04 18:30
+unibet,union saint-gilloise,club bruges,2.05,3.15,2.75,21/04 18:30
+unibet,casa pia,fc porto,7.65,4.55,1.32,21/04 19:00
+unibet,ia akranes,fylkir reykjavik,2.06,3.4,2.78,21/04 19:00
+unibet,toulouse,marseille,2.95,3.28,2.24,21/04 19:00
+unibet,arda kardzhali,cska sofia,4.6,3.38,1.5,21/04 19:15
+unibet,bodo/glimt,molde,1.76,3.38,3.38,21/04 19:15
+unibet,hapoel petah tikva fc,beitar jerusalem,3.25,3.18,1.85,21/04 19:15
+unibet,sc charleroi,kas eupen,1.54,3.45,4.4,21/04 19:15
+unibet,fribourg,mayence,2.52,3.45,2.48,21/04 19:30
+unibet,hnk rijeka,hnk gorica,1.18,4.9,7.7,21/04 19:30
+unibet,olympiakos,paok fc,1.71,3.3,3.42,21/04 19:30
+unibet,fc koper,bravo,1.93,3.0,3.05,21/04 20:15
+unibet,river plate,boca juniors,1.93,2.9,3.15,21/04 20:30
+unibet,ac monza,atalanta bergame,3.85,3.62,1.8,21/04 20:45
+unibet,atletico paranaense,internacional,1.8,3.08,3.32,21/04 21:00
+unibet,palestino,universidad de chile,2.5,3.05,2.21,21/04 21:00
+unibet,palmeiras,flamengo,2.05,2.98,2.82,21/04 21:00
+unibet,paris sg,lyon,1.41,4.85,5.75,21/04 21:00
+unibet,real madrid,fc barcelone,1.77,3.85,3.78,21/04 21:00
+unibet,santa fe,america de cali,1.8,3.0,3.68,21/04 21:00
+unibet,vitoria ba,ec bahia,2.31,2.85,2.52,21/04 21:00
+unibet,vikingur reykjavik,breidablik,2.03,3.38,2.85,21/04 21:15
+unibet,sporting portugal,vitoria guimaraes,1.25,5.15,8.45,21/04 21:30
+unibet,deportivo cali,envigado fc,1.6,3.18,4.55,21/04 23:10
+unibet,atletico goianiense,sao paulo,2.82,2.9,2.08,21/04 23:30
+unibet,botafogo,ec juventude,1.74,3.1,3.55,21/04 23:30
+unibet,tacuary asuncion,club guarani,2.62,3.0,2.14,21/04 23:30
+unibet,union espanola,deportes copiapo,1.54,3.4,4.2,21/04 23:30
+unibet,la galaxy,san jose eart.,1.48,4.0,4.3,22/04 01:00
+unibet,independiente medellin,atletico nacional,1.76,3.0,3.85,22/04 01:20
+unibet,cd cobreloa calama,audax italiano,1.96,3.12,2.85,22/04 02:00
+unibet,cd cruz azul,atlas fc,1.41,3.88,5.25,22/04 02:00
+unibet,nac. asuncion,club olimpia,3.02,2.9,1.98,22/04 03:00
+unibet,deportes tolima,boyaca patriotas,1.36,3.62,6.7,22/04 03:30
+unibet,nk rudes zagreb,varazdin,3.9,3.3,1.61,22/04 17:00
+unibet,shakhtar donetsk,zorya lugansk,1.17,4.85,8.55,22/04 17:00
+unibet,fc petrolul ploiesti,uta arad,2.09,2.92,2.8,22/04 18:00
+unibet,as rome,bologne,2.18,3.05,3.3,22/04 18:30
+unibet,cd nacional,benfica b,1.64,3.42,3.72,22/04 19:00
+unibet,fc nordsjaelland,aarhus gf,1.53,3.58,4.45,22/04 19:00
+unibet,if elfsborg,kalmar ff,1.45,3.75,4.85,22/04 19:00
+unibet,sivasspor,fenerbahce,6.4,4.2,1.27,22/04 19:00
+unibet,warta poznan,stal mielec,1.89,2.8,3.4,22/04 19:00
+unibet,fc carthagène,real oviedo,2.9,2.75,2.12,22/04 20:30
+unibet,derry city,st. patricks athletic,1.61,3.22,4.05,22/04 20:45
+unibet,milan ac,inter milan,3.25,3.48,2.02,22/04 20:45
+unibet,shelbourne fc,shamrock rovers,2.32,2.85,2.52,22/04 20:45
+unibet,fc séville,majorque,1.86,3.08,4.2,22/04 21:00
+unibet,middlesbrough fc,leeds united,3.62,3.32,1.66,22/04 21:00
+unibet,sporting farense,benfica,6.3,4.45,1.32,22/04 21:15
+unibet,fc voluntari,fc u craiova 1948,2.03,2.82,3.0,23/04 16:00
+unibet,fc botosani,dinamo bucarest,2.34,2.8,2.52,23/04 18:30
+unibet,arsenal,chelsea,1.45,4.5,5.25,23/04 21:00
+unibet,lazio rome,juventus turin,2.58,3.22,2.5,23/04 21:00
+unibet,leicester,southampton,1.82,3.3,3.05,23/04 21:00
+unibet,caracas fc,rosario central,3.6,3.12,1.78,24/04 00:00
+unibet,estudiantes de la plata,gremio,1.95,3.0,3.18,24/04 00:00
+unibet,atletico mineiro,penarol montevideo,1.37,3.75,6.1,24/04 02:00
+unibet,liverpool montevideo,san lorenzo,2.88,2.98,2.09,24/04 02:00
+unibet,colo colo,alianza lima,1.41,3.68,5.65,24/04 02:30
+unibet,atletico junior,ldu quito,1.85,3.15,3.32,24/04 04:00
+unibet,fc universitatea cluj,politehnica iasi,1.73,3.0,3.7,24/04 15:45
+unibet,lamia fc,paok fc,10.2,4.95,1.14,24/04 16:00
+unibet,farul constanta,rapid bucarest,2.19,2.78,2.75,24/04 18:00
+unibet,aris thessalonique,olympiakos,4.4,3.28,1.54,24/04 18:30
+unibet,fc twente,almere city fc,1.2,4.5,8.1,24/04 18:45
+unibet,lorient,paris sg,6.3,4.9,1.36,24/04 19:00
+unibet,aek athènes,panathinaikos,1.72,3.05,3.7,24/04 19:30
+unibet,coventry city,hull city,1.77,3.32,3.2,24/04 20:45
+unibet,sepsi,fcsb,3.22,2.95,1.89,24/04 20:45
+unibet,wolverhampton,bournemouth,2.34,3.5,2.58,24/04 20:45
+unibet,atalanta bergame,fiorentina,1.78,3.52,3.95,24/04 21:00
+unibet,crystal palace,newcastle,2.9,3.52,2.13,24/04 21:00
+unibet,everton,liverpool,5.25,4.4,1.47,24/04 21:00
+unibet,manchester united,sheffield united,1.26,5.55,7.9,24/04 21:00
+unibet,marseille,nice,2.01,3.35,3.3,24/04 21:00
+unibet,monaco,lille,2.06,3.48,3.05,24/04 21:00
+unibet,botafogo,universitario de deportes,1.33,4.0,6.4,25/04 00:00
+unibet,huachipato,the strongest,1.55,3.62,4.2,25/04 00:00
+unibet,nacional,deportivo tachira,1.21,4.6,8.7,25/04 00:00
+unibet,libertad asuncion,river plate,3.65,3.25,1.73,25/04 02:00
+unibet,club bolivar,flamengo,2.07,3.22,2.75,25/04 02:30
+unibet,independiente del valle,palmeiras,2.15,3.08,2.7,25/04 02:30
+unibet,uta arad,asc otelul galati,2.09,2.7,3.0,25/04 15:45
+unibet,fc hermannstadt,fc petrolul ploiesti,1.94,2.7,3.4,25/04 18:00
+unibet,universitatea craiova,cfr cluj,2.23,2.78,2.7,25/04 20:45
+unibet,brighton,manchester city,5.75,4.75,1.4,25/04 21:00
+unibet,go ahead eagles,feyenoord rotterdam,4.5,3.75,1.45,25/04 21:00
+unibet,cerro porteno,fluminense,2.98,3.08,2.01,26/04 00:00
+unibet,cobresal,talleres de cordoba,2.92,3.02,2.05,26/04 00:00
+unibet,barcelona sc,sao paulo,2.88,3.15,2.02,26/04 02:00
+unibet,palestino,millonarios fc,2.37,2.98,2.48,26/04 02:00
+unibet,brisbane roar,adelaide united,2.11,3.7,2.35,26/04 11:45
+unibet,bochum,hoffenheim,2.06,3.62,2.8,26/04 20:30
+unibet,almeria,getafe,2.34,3.08,2.58,26/04 21:00
+unibet,montpellier,nantes,1.86,3.45,3.42,26/04 21:00
+unibet,club puebla,club américa,5.9,4.25,1.29,27/04 03:00
+unibet,queretaro fc,pumas unam,1.97,3.05,2.88,27/04 05:00
+unibet,newcastle jets fc,central coast mariners,3.3,3.0,1.84,27/04 09:15
+unibet,wellington phoenix,macarthur fc,1.7,3.2,3.55,27/04 09:15
+unibet,melbourne victory,sydney wanderers,1.88,3.05,3.12,27/04 11:45
+unibet,fc barcelone,valence,1.34,4.25,6.25,27/04 14:00
+unibet,augsbourg,werder brême,1.63,3.82,4.1,27/04 15:30
+unibet,bayern munich,eintracht francfort,1.28,5.25,6.65,27/04 15:30
+unibet,fribourg,wolfsbourg,2.05,3.55,2.85,27/04 15:30
+unibet,rb leipzig,dortmund,1.64,4.05,3.78,27/04 15:30
+unibet,aberdeen,motherwell,1.81,3.05,3.35,27/04 16:00
+unibet,kilmarnock,hearts,2.14,2.98,2.65,27/04 16:00
+unibet,livingston,ross county,2.12,3.08,2.62,27/04 16:00
+unibet,st johnstone,hibernian,2.98,3.15,1.89,27/04 16:00
+unibet,alaves,celta vigo,2.34,2.88,2.75,27/04 16:15
+unibet,atalanta bergame,empoli,1.31,4.15,6.4,27/04 18:30
+unibet,atletico madrid,athletic bilbao,1.78,3.15,3.82,27/04 18:30
+unibet,bayer leverkusen,stuttgart,1.68,3.85,3.78,27/04 18:30
+unibet,bologne,udinese,1.47,3.52,5.1,27/04 18:30
+unibet,fiorentina,sassuolo,1.49,3.72,4.55,27/04 18:30
+unibet,frosinone calcio,salernitana,1.49,3.8,4.45,27/04 18:30
+unibet,genoa,cagliari,1.85,2.98,3.52,27/04 18:30
+unibet,inter milan,torino,1.29,4.05,7.35,27/04 18:30
+unibet,juventus turin,milan ac,1.96,3.1,3.08,27/04 18:30
+unibet,lazio rome,hellas verone,1.48,3.5,5.0,27/04 18:30
+unibet,lecce,ac monza,1.97,2.92,3.22,27/04 18:30
+unibet,naples,as rome,1.72,3.35,3.55,27/04 18:30
+unibet,hull city,ipswich town,3.18,3.92,1.64,27/04 21:00
+unibet,paris sg,le havre,1.3,4.65,7.35,27/04 21:00
+unibet,real sociedad,real madrid,2.72,3.08,2.23,27/04 21:00
+unibet,fc juarez,club leon,2.25,3.15,2.39,28/04 01:06
+unibet,deportivo toluca fc,cd cruz azul,1.81,3.15,3.22,28/04 03:00
+unibet,pachuca,mazatlan fc,1.43,3.75,4.65,28/04 03:00
+unibet,tigres uanl,club tijuana,1.37,3.82,5.35,28/04 03:00
+unibet,atlas fc,guadalajara,3.12,3.05,1.87,28/04 05:00
+unibet,melbourne city,western united fc,1.43,3.68,4.75,28/04 09:00
+unibet,sydney fc,perth glory,1.41,3.42,5.65,28/04 11:45
+unibet,nec nijmegen,az alkmaar,2.88,3.55,1.81,28/04 12:15
+unibet,pec zwolle,heracles almelo,2.07,3.35,2.5,28/04 12:15
+unibet,metz,lille,4.5,3.68,1.6,28/04 13:00
+unibet,st mirren,rangers,7.3,4.55,1.21,28/04 13:30
+unibet,cadiz cf,majorque,2.32,2.7,2.95,28/04 14:00
+unibet,rkc waalwijk,fc utrecht,2.88,3.4,1.86,28/04 14:30
+unibet,clermont,reims,3.35,3.32,1.92,28/04 15:00
+unibet,lorient,toulouse,2.52,3.2,2.43,28/04 15:00
+unibet,strasbourg,nice,2.92,3.2,2.15,28/04 15:00
+unibet,borussia m'gladbach,union berlin,2.0,3.38,3.08,28/04 15:30
+unibet,fc dundee,celtic,6.9,4.9,1.2,28/04 16:00
+unibet,grenade,osasuna,2.49,2.9,2.55,28/04 16:15
+unibet,vitesse arnhem,fortuna sittard,2.55,3.4,2.03,28/04 16:45
+unibet,rennes,brest,2.29,3.15,2.72,28/04 17:05
+unibet,mayence,cologne,1.53,3.92,4.8,28/04 17:30
+unibet,villarreal,rayo vallecano,1.69,3.42,3.9,28/04 18:30
+unibet,lyon,monaco,2.5,3.45,2.33,28/04 19:00
+unibet,darmstadt,fc heidenheim 1846,3.02,3.6,1.96,28/04 19:30
+unibet,betis séville,fc séville,2.05,3.05,3.05,28/04 21:00
+unibet,marseille,lens,2.0,3.28,3.18,28/04 21:00
+unibet,club necaxa,monterrey,2.72,3.15,2.02,29/04 02:00
+unibet,santos laguna,atletico san luis,1.69,3.35,3.45,29/04 02:00
+unibet,las palmas,gerone,3.2,3.28,1.92,29/04 21:00
+unibet,bayern munich,real madrid,2.24,3.52,2.7,30/04 21:00
+unibet,dortmund,paris sg,2.55,3.55,2.35,01/05 21:00
+unibet,stuttgart,bayern munich,2.4,3.8,2.08,04/05 15:30
+unibet,union saint-gilloise,royal antwerp,2.08,3.08,2.68,09/05 15:30
+unibet,lyon,paris sg,4.8,4.0,1.46,25/05 19:00
+unibet,kaiserslautern,bayer leverkusen,11.5,5.95,1.11,25/05 20:00
+unibet,allemagne,ecosse,1.21,5.4,10.2,14/06 21:00
+unibet,hongrie,suisse,3.2,3.32,2.02,15/06 15:00
+unibet,espagne,croatie,1.65,3.48,4.65,15/06 18:00
+unibet,italie,albanie,1.33,4.4,7.7,15/06 21:00
+unibet,pologne,pays-bas,4.45,3.68,1.63,16/06 15:00
+unibet,slovénie,danemark,4.15,3.3,1.77,16/06 18:00
+unibet,serbie,angleterre,5.7,4.0,1.46,16/06 21:00
+unibet,roumanie,ukraine,3.12,3.22,2.08,17/06 15:00
+unibet,belgique,slovaquie,1.42,4.15,6.15,17/06 18:00
+unibet,autriche,france,6.4,4.3,1.39,17/06 21:00
+unibet,turquie,géorgie,1.69,3.52,4.25,18/06 18:00
+unibet,portugal,tchéquie,1.51,3.7,5.65,18/06 21:00
+unibet,argentine,canada,1.3,4.6,7.6,21/06 02:00
+unibet,pérou,chili,3.92,3.1,1.84,22/06 02:00
+unibet,equateur,venezuela,1.79,3.18,4.05,23/06 00:00
+unibet,mexique,jamaïque,1.56,3.5,5.15,23/06 03:00
+unibet,etats-unis,bolivie,1.21,5.1,10.5,24/06 00:00
+unibet,uruguay,panama,1.29,4.5,8.1,24/06 03:00
+unibet,colombie,paraguay,1.75,3.18,4.3,25/06 00:00
+unibet,brésil,costa rica,1.14,6.15,12.5,25/06 03:00
